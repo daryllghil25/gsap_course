@@ -1,1 +1,1 @@
-# gsap_course
+# Ultimate GSAP Workshop Starter
